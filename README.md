@@ -1,1 +1,0 @@
-IF PAGE IS NOT LOADING ADD "/str.html" TO THE LINK
